@@ -1,6 +1,7 @@
 import "./App.css";
 import Navbar from "./components/layouts/navbar/Navbar";
 import NavbarMobile from "./components/layouts/navbar/NavbarM";
+import Hero from "./pages/Hero";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <div className="block md:hidden">
         <NavbarMobile />
       </div>
+      <Hero></Hero>
     </>
   );
 }
