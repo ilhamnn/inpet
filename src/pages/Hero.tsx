@@ -1,4 +1,3 @@
-import React from "react";
 import Send1 from "../assets/Send1.webp";
 import { Button } from "../components/ui/button";
 
