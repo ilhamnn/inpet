@@ -27,6 +27,18 @@ export default function Hero() {
           />
         </div>
       </div>
+      <div className="">
+        <p className="text-gray-600 text-4xl font-medium">
+          <span className="text-black">
+            inve<span>te </span>
+          </span>
+          menyederhanakan persiapan pernikahanmu
+        </p>
+
+        <p className="font-light">
+          We have been working with some Fortune 500+ clients
+        </p>
+      </div>
     </section>
   );
 }
